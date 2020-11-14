@@ -1,0 +1,4 @@
+ CREATE TABLE  company (
+   comp_name varchar(100) NOT NULL,
+   comp_id int
+ );

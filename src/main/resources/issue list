@@ -1,0 +1,5 @@
+issue list
+
+issue-1 moved from com.library.shelves so can scan subpackages
+issue-2 selecting database: derby few sql doesn't exist, h2 may be not good for long run, hsql provides db manager and small
+issue-3 data not saved to disk or cascaded when restarted, it seems embedded db dont save data on restart, use local hsql server to solve
